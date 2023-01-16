@@ -1,0 +1,22 @@
+.posts {
+    background-color: #fffafa;
+    width: 70%;
+    height: 100%;
+    margin: 0px auto 0px auto;
+}
+.posts div{
+    padding: 20px 30px 10px 30px;
+}
+
+.data {
+    color: #008080;
+    font-family: 'Roboto', sans-serif;
+}
+
+.titulo {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.texto {
+    font-family: 'Open Sans', sans-serif;
+}
